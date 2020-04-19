@@ -1,0 +1,119 @@
+body{
+   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTokFCL9COBL4oAn0-oq4LDzEEdZ9DUMdurJ9vVWlLlMWBKfP-I&usqp=CAU");
+background-repeat:no-repeat;
+background-size: cover;
+}
+div.margin2{
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 60px;
+    color: rgba(9, 24, 156, 0.966);
+    margin: 0px;
+    font-style: italic;
+}
+div.mar1{
+    margin-top:90px;
+    margin-left: 180px;
+    
+    
+}
+div.margin1{
+    margin-left: 130px;
+    
+}
+
+    div.pad1{
+padding: 0px;
+margin-right: 0px;
+background-color:rgba(137, 231, 187, 0.938)
+    }
+    div.pad2{
+        padding: 40px;
+        padding-left: 60px;
+        padding-right:20px;
+        margin-left: 0px;
+    }
+   div.for1{
+margin: 40px;
+    }
+    .font2{
+        color: rgb(58, 78, 167);
+        font-weight: bold;
+    }
+    div.pad3{
+        padding-top: 10px;
+    }
+    div.pad4{
+        margin-left:50px;
+    }
+    button{
+       margin-left: 80px; 
+      
+        border-radius: 30%;
+        width: 170px;
+    }
+    div.back1{
+border-radius: 20px;
+
+background-color: rgba(126, 43, 91, 0.781);
+height: 550px;
+
+    }
+    .centered {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: rgb(240, 224, 6);
+        font-weight: bold;
+        
+        text-shadow:2px 2px 5px rgb(226, 45, 45);
+      }
+      div.pad5{
+          margin-top: 20px;
+          margin-left: 10px;
+          text-shadow: none;
+          color:rgb(50, 104, 77);
+      }
+   .font1 a:hover{
+       color: rgb(36, 19, 19);
+       text-decoration: none;
+   }
+   a:link{
+       color: rgb(124, 70, 9);
+       text-decoration: none;
+   }
+   .in1{
+       margin-left: 120px;
+       padding: 0px;
+   }
+  .in2{
+      background-color: rgb(122, 128, 128);
+      text-align: center;
+      border-radius: 50%;
+      
+  }
+  .in3{
+      font-weight: bold;
+      color: yellowgreen;
+      margin-left: 110px;
+      padding-top: 10px;
+  }
+  img{
+      width:40px;
+      height:30px;
+      border-radius: 50%;
+  }
+  .img3{
+      padding-left: 4px;
+     margin-left: 80px;
+  }
+  .img4{
+      width:50px;
+      height:50px;
+
+  }

@@ -1,0 +1,15 @@
+img{
+    width:1100px;
+    height: 300px;
+   
+}
+.for1{
+    text-align: center;
+    background-color: mediumblue;
+    color: mintcream;
+    margin-top: 10px;
+}
+.card{
+    margin-right: 50px;
+    margin-left: 10px;
+}

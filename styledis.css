@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRH57lDlq0_1LtSmpXkD4U_1ZMWiwm3dOvtBlacPycrCaXJV9P&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    width: 150px;
+    height:150px;
+    border-radius: 20px;
+}
+div.mar1{
+margin-top: 20px;
+}
+div.mar2{
+    margin-left: 270px;
+}
+.desc{
+    background-color: rgb(38, 201, 212);
+  font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+h1{
+    text-align: center;
+   
+    color: magenta;
+}

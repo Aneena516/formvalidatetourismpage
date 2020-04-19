@@ -1,0 +1,69 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfpqoFh42v-SD4OPt4X9SCcFOHC2MH4EUK_sUW938j-Z_iRqj-&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div.mar1{
+    margin: 300px;
+    margin-top: 100px;
+}
+div.font1{
+    background-color: rgb(94, 78, 78);
+border-radius: 20px;
+    height: 400px;
+    padding-left: 90px;
+    padding-top: 30px;
+}
+div.pad1{
+    padding-top: 60px;
+}
+.input1{
+    border-radius: 10px;
+    border:2px solid seagreen;
+}
+.pad2{
+    padding: 10px;
+}
+div.mar2{
+    margin-left: 120px;
+   
+  
+}
+button{
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 2px solid brown;
+    border-radius: 30px;
+    background-color: seagreen;
+    font-weight: bold;
+    
+}
+p{
+    color: rgb(12, 6, 95);
+    padding-top: 5px;
+}
+ p a:hover{
+    color: rgb(20, 220, 220);
+    text-decoration: none;
+    font-weight: 900;
+}
+.img1{
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+ background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFSPnD5etVCc9gT_a6lD3LmUFLIg4_ArWkWGlWSreiz9ixyTR8&usqp=CAU");
+
+}
+
+p a:link{
+color: black;
+}
+img{
+width:90px;
+height: 90px;
+padding: 0px;
+margin: 0px;
+margin-left: 135px;
+margin-top: -65px;border-radius: 50%;
+}
